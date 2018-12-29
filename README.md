@@ -1,6 +1,7 @@
 # vue_configure
-vue配置项目  
-第一步  
-$ npm install  
-第二步  
-$ npm start
+## vue配置项目  
+### 项目运行  
+`
+npm install  
+npm start
+`
